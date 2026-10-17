@@ -11,8 +11,8 @@ CMakeCache.txt
 *.dll
 *.exe
 *.out
-/Lec-11/assignment.cpp/spsc_queue
-/Lec-11/assignment.cpp/spsc_queue_test
+/spsc_queue
+/spsc_queue_test
 
 # Local editor files and caches
 .idea/
